@@ -47,12 +47,13 @@
          "ad_showAdStatus":"",
           "AppID":" "
       },
-       "applovin":{
+      "applovin":{
          "ad_showAdStatus":"",
          "applovin_intretial":"03fa45c0f3144afc",
           "applovin_baner":"",
           "applovin_native":"972eb2d420a04bdf",
           "applovin_native1":"270280597b19c8be"
+         
       },
       "QurekaLite":{
          "ad_showAdStatus":"",
