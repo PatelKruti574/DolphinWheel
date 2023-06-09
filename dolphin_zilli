@@ -18,7 +18,7 @@
           "AppOpen1":" "
       },
       "Facebookaudiencenetwork":{
-         "ad_showAdStatus":"1",
+         "ad_showAdStatus":"",
          "Banner1":"477487347896584_477487624563223",
          "Interstitial1":" ",
          "Interstitial2":" ",
@@ -43,10 +43,7 @@
          "NativeBanner1":"230807221472038_474481330437958"
      
       },
-      "Unity":{
-         "ad_showAdStatus":"",
-          "AppID":" "
-      },
+     
       "applovin":{
          "ad_showAdStatus":"",
          "applovin_intretial":"03fa45c0f3144afc",
