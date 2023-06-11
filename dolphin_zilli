@@ -18,25 +18,25 @@
           "AppOpen1":" "
       },
       "Facebookaudiencenetwork":{
-         "ad_showAdStatus":"",
-         "Banner1":"477487347896584_477487624563223",
+         "ad_showAdStatus":"1",
+         "Banner1":" ",
          "Interstitial1":" ",
          "Interstitial2":" ",
          "Interstitial3":" ",
          "Interstitial4":"",
-         "Interstitial5":"2312433698835503_2650502525028617",
+         "Interstitial5":" ",
          "Interstitial6":"",
       
           "Interstitial_exit":" ",
-         "Interstitial_exit1":"2312433698835503_2650502525028617",
+         "Interstitial_exit1":" ",
          "Interstitial_exit2":"",  
          "Interstitial_exit3":" ",
          "Interstitial_exit4":"",
-         "Interstitial_exit5":"2312433698835503_2650502525028617",
+         "Interstitial_exit5":" ",
           "Interstitial_exit6":" ",
         
-         "Native1":"3011693982286504_3011695365619699",
-         "NativeBanner1":"230807221472038_474481330437958"
+         "Native1":" ",
+         "NativeBanner1":" "
      
       },
      
